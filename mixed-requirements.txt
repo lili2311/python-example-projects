@@ -4,5 +4,5 @@
 folder/file
 ./here
 ../there/
-Jinja2==2.7.2
+Jinja2==2.11.3
 oauth2==1.1.3
